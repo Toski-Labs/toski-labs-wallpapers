@@ -11,8 +11,8 @@ ou na [última release](https://github.com/Toski-Labs/toski-labs-wallpapers/rele
 |---|---|---|
 | Minimal | ✓ | ✓ |
 | Noturna | ✓ | ✓ |
-| Padrão noturno | — | ✓ |
-| Linha | — | ✓ |
+| Padrão noturno | ✓ | ✓ |
+| Linha | ✓ | ✓ |
 
 ## Pastas
 
