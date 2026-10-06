@@ -13,6 +13,7 @@ ou na [última release](https://github.com/Toski-Labs/toski-labs-wallpapers/rele
 | Noturna | ✓ | ✓ |
 | Padrão noturno | ✓ | ✓ |
 | Linha | ✓ | ✓ |
+| Halloween | ✓ | ✓ |
 
 ## Tamanhos e pastas
 
