@@ -14,6 +14,7 @@ ou na [última release](https://github.com/Toski-Labs/toski-labs-wallpapers/rele
 | Padrão noturno | ✓ | ✓ |
 | Linha | ✓ | ✓ |
 | Halloween | ✓ | ✓ |
+| Lick or Treat | ✓ | ✓ |
 
 ## Tamanhos e pastas
 
