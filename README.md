@@ -14,22 +14,24 @@ ou na [última release](https://github.com/Toski-Labs/toski-labs-wallpapers/rele
 | Padrão noturno | ✓ | ✓ |
 | Linha | ✓ | ✓ |
 
-## Pastas
+## Tamanhos e pastas
 
 ```
-mobile/                 iPhone (1290 × 2796)
-desktop/                Mac
-  <resolução>/          uma pasta por tamanho (ex.: 5k/, 4k/)
+mobile/                  1320 × 2868 · todos os iPhones (nativo no 16/17 Pro Max; nos menores o iOS reduz)
+desktop/5k/              5120 × 2880 · Studio Display, iMac 27″
+desktop/4k/              3840 × 2160 · monitores 4K e telas 16:9
+desktop/macbook/         3456 × 2234 · MacBook Pro e Air (16:10)
+desktop/ultrawide/       5120 × 2160 · monitores 21:9 (inclui 3440 × 1440)
 ```
 
-O número no começo do nome (`01-`, `02-`…) é a ordem na coleção e se repete
-em todas as pastas, para o mesmo wallpaper ter o mesmo nome em qualquer tamanho.
+Os nomes seguem `<nº>-<nome>-mobile.png` e `<nº>-<nome>-desktop-<tamanho>.png`.
+O número no começo (`01-`, `02-`…) é a ordem na coleção e se repete em todos os tamanhos.
 
 ## Releases
 
-Cada nova leva vira uma release (`v1.0`, `v1.1`…) com os PNGs anexados.
-O site baixa os arquivos do Mac da release mais recente, então o nome dos
-anexos precisa continuar o mesmo entre as versões.
+Cada nova leva vira uma release (`v2.0`, `v2.1`…) com todos os PNGs anexados.
+O site baixa os arquivos da release mais recente, então o nome dos anexos precisa
+continuar o mesmo entre as versões.
 
 ## Licença
 
